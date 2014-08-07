@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/externals.git]
+checkout = vcsh clone git://github.com/conrado/vcsh_externals.git externals
