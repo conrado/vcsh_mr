@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/externals.git]
-checkout = vcsh clone --recursive git://github.com/conrado/vcsh_externals.git externals
+checkout = vcsh clone --recursive ssh://github.com/conrado/vcsh_externals.git externals
